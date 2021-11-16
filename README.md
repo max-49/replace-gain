@@ -14,4 +14,4 @@ Thank you and reach out to me with any questions, you know who I am lol :)
 
 Context to this project btw:
 
-(![context](https://user-images.githubusercontent.com/47071544/141889604-a78d9c7e-82a7-4eb3-8f45-d3e69321e067.png)
+![context](https://user-images.githubusercontent.com/47071544/141889604-a78d9c7e-82a7-4eb3-8f45-d3e69321e067.png)
